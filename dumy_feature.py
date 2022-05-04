@@ -1,3 +1,3 @@
 
 def dummy_func():
-    print("adding new in the numpy open source code")
+    print("adding new feature in the numpy open source code")
